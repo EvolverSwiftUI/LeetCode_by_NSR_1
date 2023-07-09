@@ -3,5 +3,6 @@
     <pages>
         <page name='1_TwoSum'/>
         <page name='2_AddTwoNumbers'/>
+        <page name='3_LongestSubString'/>
     </pages>
 </playground>
