@@ -5,5 +5,6 @@
         <page name='2_AddTwoNumbers'/>
         <page name='3_LongestSubString'/>
         <page name='4_MedianOfTwoSortedArrays'/>
+        <page name='5_LongestPalindromicSubstring'/>
     </pages>
 </playground>
