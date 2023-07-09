@@ -7,5 +7,6 @@
         <page name='4_MedianOfTwoSortedArrays'/>
         <page name='5_LongestPalindromicSubstring'/>
         <page name='6_ZigzagConversion'/>
+        <page name='7_ReverseInteger'/>
     </pages>
 </playground>
