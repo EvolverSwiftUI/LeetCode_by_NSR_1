@@ -1,5 +1,7 @@
 import Foundation
 
+// Approach 1
+
 func longestCommonPrefix(_ strs: [String]) -> String {
     
     if strs.isEmpty { return "" }
@@ -36,3 +38,24 @@ func longestCommonPrefix(_ strs: [String]) -> String {
 
 longestCommonPrefix(["flower","flow","flight"]) // fl
 longestCommonPrefix(["dog","racecar","car"]) // ""
+
+
+// Approach 2
+
+func longestCommonPrefix2(_ strs: [String]) -> String {
+    if strs.isEmpty { return "" }
+    if strs.count == 1 { return strs.first! }
+    
+    var common = strs.first ?? ""
+    
+    for str in strs {
+        while !str.hasPrefix(common) {
+            common = String(common.dropLast())
+        }
+    }
+    
+    return common
+}
+
+longestCommonPrefix2(["flower","flow","flight"]) // fl
+longestCommonPrefix2(["dog","racecar","car"]) // ""
