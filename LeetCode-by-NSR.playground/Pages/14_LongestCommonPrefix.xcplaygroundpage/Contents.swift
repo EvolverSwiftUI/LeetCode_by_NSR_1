@@ -59,3 +59,28 @@ func longestCommonPrefix2(_ strs: [String]) -> String {
 
 longestCommonPrefix2(["flower","flow","flight"]) // fl
 longestCommonPrefix2(["dog","racecar","car"]) // ""
+
+
+// Approach 3
+
+func longestCommonPrefix3(_ strs: [String]) -> String {
+    if strs.isEmpty { return "" }
+    if strs.count == 1 { return strs.first! }
+    
+    var strArr = strs.sorted()
+    var first = Array(strArr.first ?? "")
+    var last = Array(strArr.last ?? "")
+    var common = ""
+
+    for i in 0..<first.count {
+        if first[i] != last[i] {
+            break
+        }
+        common.append(first[i])
+   }
+    
+    return common
+}
+
+longestCommonPrefix3(["flower","flow","flight"]) // fl
+longestCommonPrefix3(["dog","racecar","car"]) // ""
