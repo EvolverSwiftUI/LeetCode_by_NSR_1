@@ -9,5 +9,6 @@
         <page name='6_ZigzagConversion'/>
         <page name='7_ReverseInteger'/>
         <page name='8_ StringtoInteger'/>
+        <page name='9_PalindromeNumber'/>
     </pages>
 </playground>
