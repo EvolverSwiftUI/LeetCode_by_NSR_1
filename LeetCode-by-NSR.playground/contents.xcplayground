@@ -14,5 +14,6 @@
         <page name='13_RomantoInteger'/>
         <page name='14_LongestCommonPrefix'/>
         <page name='20_ValidParentheses'/>
+        <page name='21_MergeTwoSortedLists'/>
     </pages>
 </playground>
