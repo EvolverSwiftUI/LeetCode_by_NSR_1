@@ -18,5 +18,6 @@
         <page name='26_RemoveDuplicates'/>
         <page name='27_RemoveElement'/>
         <page name='28_IndexFirstOccurrenceinString'/>
+        <page name='35_SearchInsertPosition'/>
     </pages>
 </playground>
