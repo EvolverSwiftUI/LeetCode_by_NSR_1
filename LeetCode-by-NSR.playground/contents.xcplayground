@@ -15,5 +15,6 @@
         <page name='14_LongestCommonPrefix'/>
         <page name='20_ValidParentheses'/>
         <page name='21_MergeTwoSortedLists'/>
+        <page name='26_RemoveDuplicates'/>
     </pages>
 </playground>
