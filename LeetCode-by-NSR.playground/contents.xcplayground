@@ -17,5 +17,6 @@
         <page name='21_MergeTwoSortedLists'/>
         <page name='26_RemoveDuplicates'/>
         <page name='27_RemoveElement'/>
+        <page name='28_IndexFirstOccurrenceinString'/>
     </pages>
 </playground>
