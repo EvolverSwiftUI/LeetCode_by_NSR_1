@@ -16,5 +16,6 @@
         <page name='20_ValidParentheses'/>
         <page name='21_MergeTwoSortedLists'/>
         <page name='26_RemoveDuplicates'/>
+        <page name='27_RemoveElement'/>
     </pages>
 </playground>

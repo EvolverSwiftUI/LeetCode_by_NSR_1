@@ -21,7 +21,7 @@ func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
 }
 
 
-// medium approach
+// 2nd approach
 func twoSum2(_ nums: [Int], _ target: Int) -> [Int] {
     var result: [Int] = []
     var dict: [Int: Int] = [:]
