@@ -20,5 +20,6 @@
         <page name='28_IndexFirstOccurrenceinString'/>
         <page name='35_SearchInsertPosition'/>
         <page name='58_LengthOfLastWord'/>
+        <page name='66_PlusOne'/>
     </pages>
 </playground>
