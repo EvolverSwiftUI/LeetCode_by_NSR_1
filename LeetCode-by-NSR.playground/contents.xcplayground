@@ -11,6 +11,7 @@
         <page name='8_ StringtoInteger'/>
         <page name='9_PalindromeNumber'/>
         <page name='10_RegularExpressionMatching'/>
+        <page name='11_ContainerWithMostWater'/>
         <page name='13_RomantoInteger'/>
         <page name='14_LongestCommonPrefix'/>
         <page name='20_ValidParentheses'/>
@@ -21,5 +22,6 @@
         <page name='35_SearchInsertPosition'/>
         <page name='58_LengthOfLastWord'/>
         <page name='66_PlusOne'/>
+        <page name='67_AddBinary'/>
     </pages>
 </playground>
