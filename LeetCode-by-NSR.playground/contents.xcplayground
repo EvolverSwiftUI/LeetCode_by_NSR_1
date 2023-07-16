@@ -12,6 +12,7 @@
         <page name='9_PalindromeNumber'/>
         <page name='10_RegularExpressionMatching'/>
         <page name='11_ContainerWithMostWater'/>
+        <page name='12_IntegerToRoman'/>
         <page name='13_RomantoInteger'/>
         <page name='14_LongestCommonPrefix'/>
         <page name='20_ValidParentheses'/>
