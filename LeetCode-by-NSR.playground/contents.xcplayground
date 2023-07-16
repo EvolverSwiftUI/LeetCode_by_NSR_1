@@ -15,6 +15,7 @@
         <page name='12_IntegerToRoman'/>
         <page name='13_RomantoInteger'/>
         <page name='14_LongestCommonPrefix'/>
+        <page name='15_3Sum'/>
         <page name='20_ValidParentheses'/>
         <page name='21_MergeTwoSortedLists'/>
         <page name='26_RemoveDuplicates'/>
