@@ -28,5 +28,6 @@
         <page name='67_AddBinary'/>
         <page name='PrimeNumbers'/>
         <page name='359_LoggerRateLimiter'/>
+        <page name='929_UniqueEmailAddresses'/>
     </pages>
 </playground>
