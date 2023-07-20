@@ -27,5 +27,6 @@
         <page name='66_PlusOne'/>
         <page name='67_AddBinary'/>
         <page name='PrimeNumbers'/>
+        <page name='359_LoggerRateLimiter'/>
     </pages>
 </playground>
