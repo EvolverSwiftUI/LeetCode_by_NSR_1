@@ -29,5 +29,6 @@
         <page name='PrimeNumbers'/>
         <page name='359_LoggerRateLimiter'/>
         <page name='929_UniqueEmailAddresses'/>
+        <page name='232_ImplementQueueusingStacks'/>
     </pages>
 </playground>

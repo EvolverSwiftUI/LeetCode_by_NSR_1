@@ -29,4 +29,4 @@ func getPrimeNumbers(_ nums: [Int]) -> [Int] {
     return result
 }
 
-getPrimeNumbers([11, 97, 43, 24, 601, 444, 733]) //
+getPrimeNumbers([11, 97, 43, 24, 601, 444, 733]) // [11, 97, 43, 601, 733]
