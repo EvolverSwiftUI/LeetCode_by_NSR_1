@@ -32,5 +32,6 @@
         <page name='232_ImplementQueueusingStacks'/>
         <page name='206_ReverseLinkedList'/>
         <page name='237_DeleteNodeinaLinkedList'/>
+        <page name='485_MaxConsecutiveOnes'/>
     </pages>
 </playground>
