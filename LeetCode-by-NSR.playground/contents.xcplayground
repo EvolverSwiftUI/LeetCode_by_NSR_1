@@ -31,5 +31,6 @@
         <page name='929_UniqueEmailAddresses'/>
         <page name='232_ImplementQueueusingStacks'/>
         <page name='206_ReverseLinkedList'/>
+        <page name='237_DeleteNodeinaLinkedList'/>
     </pages>
 </playground>
