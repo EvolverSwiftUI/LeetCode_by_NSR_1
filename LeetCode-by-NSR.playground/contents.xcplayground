@@ -30,5 +30,6 @@
         <page name='359_LoggerRateLimiter'/>
         <page name='929_UniqueEmailAddresses'/>
         <page name='232_ImplementQueueusingStacks'/>
+        <page name='206_ReverseLinkedList'/>
     </pages>
 </playground>
