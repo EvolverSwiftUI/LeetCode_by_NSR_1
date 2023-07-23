@@ -26,14 +26,15 @@
         <page name='58_LengthOfLastWord'/>
         <page name='66_PlusOne'/>
         <page name='67_AddBinary'/>
-        <page name='PrimeNumbers'/>
-        <page name='359_LoggerRateLimiter'/>
-        <page name='929_UniqueEmailAddresses'/>
-        <page name='232_ImplementQueueusingStacks'/>
-        <page name='206_ReverseLinkedList'/>
-        <page name='237_DeleteNodeinaLinkedList'/>
-        <page name='485_MaxConsecutiveOnes'/>
         <page name='169_MajorityElement'/>
+        <page name='206_ReverseLinkedList'/>
+        <page name='232_ImplementQueueusingStacks'/>
+        <page name='237_DeleteNodeinaLinkedList'/>
+        <page name='359_LoggerRateLimiter'/>
+        <page name='485_MaxConsecutiveOnes'/>
+        <page name='929_UniqueEmailAddresses'/>
         <page name='Factorial'/>
+        <page name='PrimeNumbers'/>
+        <page name='229_MajorityElement-II'/>
     </pages>
 </playground>
