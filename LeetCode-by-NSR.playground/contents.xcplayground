@@ -34,5 +34,6 @@
         <page name='237_DeleteNodeinaLinkedList'/>
         <page name='485_MaxConsecutiveOnes'/>
         <page name='169_MajorityElement'/>
+        <page name='Factorial'/>
     </pages>
 </playground>
