@@ -29,6 +29,7 @@
         <page name='169_MajorityElement'/>
         <page name='206_ReverseLinkedList'/>
         <page name='217_ContainsDuplicate'/>
+        <page name='219_ContainsDuplicate-II'/>
         <page name='229_MajorityElement-II'/>
         <page name='232_ImplementQueueusingStacks'/>
         <page name='237_DeleteNodeinaLinkedList'/>
