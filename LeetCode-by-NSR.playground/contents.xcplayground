@@ -34,6 +34,7 @@
         <page name='229_MajorityElement-II'/>
         <page name='232_ImplementQueueusingStacks'/>
         <page name='237_DeleteNodeinaLinkedList'/>
+        <page name='283_MoveZeroes'/>
         <page name='349_IntersectionOfTwoArrays'/>
         <page name='350_IntersectionOfTwoArrays-II'/>
         <page name='359_LoggerRateLimiter'/>
