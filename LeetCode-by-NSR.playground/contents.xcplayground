@@ -26,6 +26,7 @@
         <page name='58_LengthOfLastWord'/>
         <page name='66_PlusOne'/>
         <page name='67_AddBinary'/>
+        <page name='80_RemoveDuplicatesfromSortedArray-II'/>
         <page name='169_MajorityElement'/>
         <page name='206_ReverseLinkedList'/>
         <page name='217_ContainsDuplicate'/>
