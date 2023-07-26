@@ -35,7 +35,7 @@ func fizzBuzz(_ n: Int) -> [String] {
 }
 
 
-// test different testcases
+// test cases
 class Test: XCTestCase {
     func testOutput1() {
         let expected = ["1","2","Fizz"]
