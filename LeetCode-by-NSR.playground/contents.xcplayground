@@ -38,10 +38,10 @@
         <page name='349_IntersectionOfTwoArrays'/>
         <page name='350_IntersectionOfTwoArrays-II'/>
         <page name='359_LoggerRateLimiter'/>
+        <page name='412_FizzBuzz'/>
         <page name='485_MaxConsecutiveOnes'/>
         <page name='929_UniqueEmailAddresses'/>
         <page name='Factorial'/>
         <page name='PrimeNumbers'/>
-        <page name='412_FizzBuzz'/>
     </pages>
 </playground>
