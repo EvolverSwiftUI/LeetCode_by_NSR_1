@@ -7,12 +7,12 @@ func fizzBuzz(_ n: Int) -> [String] {
     //Approach 1:
     
     //for i in 1...n {
-    //    if i%15 == 0 {
+    //    if i%3 == 0 && i%5 == 0 {
     //        result.append("FizzBuzz")
-    //    } else if i%5 == 0 {
-    //        result.append("Buzz")
     //    } else if i%3 == 0 {
     //        result.append("Fizz")
+    //    } else if i%5 == 0 {
+    //        result.append("Buzz")
     //    } else {
     //        result.append(String(i))
     //    }
