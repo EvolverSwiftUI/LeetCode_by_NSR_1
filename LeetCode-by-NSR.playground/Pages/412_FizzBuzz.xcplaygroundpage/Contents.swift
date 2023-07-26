@@ -18,6 +18,8 @@ func fizzBuzz(_ n: Int) -> [String] {
     //    }
     //}
     
+    
+    
     //Approach 2:
     
     for num in 1...n {
