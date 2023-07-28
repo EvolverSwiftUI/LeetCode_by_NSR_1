@@ -121,3 +121,44 @@ mergeTwoLists(list1, list2) // []
 list1 = nil
 list2 = ListNode(0)
 mergeTwoLists(list1, list2) // [0]
+
+
+// Approach 2:
+
+func mergeTwoLists_v2(_ list1: ListNode?, _ list2: ListNode?) -> ListNode? {
+    
+    if list1 == nil || list2 == nil { return list2 == nil ? list1 : list2 }
+    
+    var l1 = list1
+    var l2 = list2
+    
+    var head: ListNode? = ListNode(-1)
+    var tail = head
+    
+    while l1 != nil && l2 != nil {
+        if l1!.val < l2!.val {
+            tail!.next = l1
+            l1 = l1!.next
+        } else {
+            tail!.next = l2
+            l2 = l2!.next
+        }
+        tail = tail!.next
+    }
+    
+    tail!.next = l1 != nil ? l1 : l2
+    head = head?.next
+    return head
+}
+
+var list1_v2: ListNode? = ListNode(1, (ListNode(2, ListNode(4))))
+var list2_v2: ListNode? = ListNode(1, (ListNode(3, ListNode(4))))
+mergeTwoLists(list1_v2, list2_v2) // [1,1,2,3,4,4]
+
+list1_v2 = nil
+list2_v2 = nil
+mergeTwoLists(list1_v2, list2_v2) // []
+
+list1_v2 = nil
+list2_v2 = ListNode(0)
+mergeTwoLists(list1_v2, list2_v2) // [0]
