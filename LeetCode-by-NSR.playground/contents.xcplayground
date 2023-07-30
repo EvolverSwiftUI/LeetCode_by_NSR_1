@@ -48,5 +48,6 @@
         <page name='929_UniqueEmailAddresses'/>
         <page name='Factorial'/>
         <page name='PrimeNumbers'/>
+        <page name='LengthOfLoopLinkedList'/>
     </pages>
 </playground>
