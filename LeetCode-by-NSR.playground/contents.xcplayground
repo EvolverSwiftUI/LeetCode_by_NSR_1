@@ -32,6 +32,7 @@
         <page name='125_ValidPalindrome'/>
         <page name='141_LinkedListCycle'/>
         <page name='142_LinkedListCycle-II'/>
+        <page name='150_EvaluateReversePolishNotation'/>
         <page name='155_MinStack'/>
         <page name='169_MajorityElement'/>
         <page name='206_ReverseLinkedList'/>
