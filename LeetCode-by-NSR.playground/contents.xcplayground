@@ -47,6 +47,7 @@
         <page name='350_IntersectionOfTwoArrays-II'/>
         <page name='359_LoggerRateLimiter'/>
         <page name='387_FirstUniqueCharacterInString'/>
+        <page name='402_RemoveKDigits'/>
         <page name='412_FizzBuzz'/>
         <page name='485_MaxConsecutiveOnes'/>
         <page name='680_ValidPalindrome-II'/>
