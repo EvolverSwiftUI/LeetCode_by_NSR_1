@@ -35,7 +35,7 @@ removeKdigits("10200", 1) // "200"
 removeKdigits("10", 2) // "0"
 
 
-// Approach 2:
+// Approach 2: Solve without using Stack
 func removeKdigits_v2(_ num: String, _ k: Int) -> String {
     if num.count == k { return "0" }
     
