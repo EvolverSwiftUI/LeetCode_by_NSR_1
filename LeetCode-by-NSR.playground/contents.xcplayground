@@ -37,6 +37,7 @@
         <page name='150_EvaluateReversePolishNotation'/>
         <page name='155_MinStack'/>
         <page name='169_MajorityElement'/>
+        <page name='189_RotateArray'/>
         <page name='206_ReverseLinkedList'/>
         <page name='217_ContainsDuplicate'/>
         <page name='219_ContainsDuplicate-II'/>
