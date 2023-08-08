@@ -60,5 +60,6 @@
         <page name='Factorial'/>
         <page name='PrimeNumbers'/>
         <page name='LengthOfLoopLinkedList'/>
+        <page name='204_CountPrimes'/>
     </pages>
 </playground>
