@@ -39,6 +39,7 @@
         <page name='155_MinStack'/>
         <page name='169_MajorityElement'/>
         <page name='189_RotateArray'/>
+        <page name='204_CountPrimes'/>
         <page name='206_ReverseLinkedList'/>
         <page name='217_ContainsDuplicate'/>
         <page name='219_ContainsDuplicate-II'/>
@@ -46,6 +47,7 @@
         <page name='232_ImplementQueueusingStacks'/>
         <page name='237_DeleteNodeinaLinkedList'/>
         <page name='240_SearchA2DMatrix-II'/>
+        <page name='271_EncodeAndDecodeStrings'/>
         <page name='283_MoveZeroes'/>
         <page name='349_IntersectionOfTwoArrays'/>
         <page name='350_IntersectionOfTwoArrays-II'/>
@@ -60,6 +62,5 @@
         <page name='Factorial'/>
         <page name='PrimeNumbers'/>
         <page name='LengthOfLoopLinkedList'/>
-        <page name='204_CountPrimes'/>
     </pages>
 </playground>

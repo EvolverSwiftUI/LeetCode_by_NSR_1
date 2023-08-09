@@ -54,3 +54,7 @@ func countPrimes_v2(_ n: Int) -> Int {
 
     return result
 }
+
+countPrimes_v2(10) // 4
+countPrimes_v2(0) // 0
+countPrimes_v2(1) // 0
