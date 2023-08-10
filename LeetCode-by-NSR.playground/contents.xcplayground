@@ -25,6 +25,7 @@
         <page name='32_LongestValidParentheses'/>
         <page name='35_SearchInsertPosition'/>
         <page name='38_CountAndSay'/>
+        <page name='49_GroupAnagrams'/>
         <page name='58_LengthOfLastWord'/>
         <page name='66_PlusOne'/>
         <page name='67_AddBinary'/>
