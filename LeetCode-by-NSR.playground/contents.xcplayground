@@ -32,6 +32,7 @@
         <page name='71_SimplifyPath'/>
         <page name='74_SearchA2DMatrix'/>
         <page name='80_RemoveDuplicatesfromSortedArray-II'/>
+        <page name='118_PascalsTriangle'/>
         <page name='121_BestTimeToBuyAndSellStock'/>
         <page name='125_ValidPalindrome'/>
         <page name='141_LinkedListCycle'/>
