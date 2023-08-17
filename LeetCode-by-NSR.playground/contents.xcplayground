@@ -41,6 +41,7 @@
         <page name='150_EvaluateReversePolishNotation'/>
         <page name='155_MinStack'/>
         <page name='169_MajorityElement'/>
+        <page name='171_ExcelSheetColumnNumber'/>
         <page name='189_RotateArray'/>
         <page name='204_CountPrimes'/>
         <page name='206_ReverseLinkedList'/>
@@ -61,10 +62,10 @@
         <page name='482_LicenseKeyFormatting'/>
         <page name='485_MaxConsecutiveOnes'/>
         <page name='680_ValidPalindrome-II'/>
+        <page name='881_BoatsToSavePeople'/>
         <page name='929_UniqueEmailAddresses'/>
         <page name='Factorial'/>
         <page name='PrimeNumbers'/>
         <page name='LengthOfLoopLinkedList'/>
-        <page name='881_BoatsToSavePeople'/>
     </pages>
 </playground>
