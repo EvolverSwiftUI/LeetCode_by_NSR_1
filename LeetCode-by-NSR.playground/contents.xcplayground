@@ -54,6 +54,7 @@
         <page name='240_SearchA2DMatrix-II'/>
         <page name='271_EncodeAndDecodeStrings'/>
         <page name='283_MoveZeroes'/>
+        <page name='344_ReverseString'/>
         <page name='349_IntersectionOfTwoArrays'/>
         <page name='350_IntersectionOfTwoArrays-II'/>
         <page name='359_LoggerRateLimiter'/>
