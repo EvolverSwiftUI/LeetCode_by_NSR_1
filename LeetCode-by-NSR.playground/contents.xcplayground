@@ -32,6 +32,7 @@
         <page name='67_AddBinary'/>
         <page name='71_SimplifyPath'/>
         <page name='74_SearchA2DMatrix'/>
+        <page name='75_SortColors'/>
         <page name='80_RemoveDuplicatesfromSortedArray-II'/>
         <page name='118_PascalsTriangle'/>
         <page name='121_BestTimeToBuyAndSellStock'/>
