@@ -54,6 +54,7 @@
         <page name='232_ImplementQueueusingStacks'/>
         <page name='237_DeleteNodeinaLinkedList'/>
         <page name='240_SearchA2DMatrix-II'/>
+        <page name='242_ValidAnagram'/>
         <page name='271_EncodeAndDecodeStrings'/>
         <page name='283_MoveZeroes'/>
         <page name='344_ReverseString'/>
