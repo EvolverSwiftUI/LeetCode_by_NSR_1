@@ -44,8 +44,10 @@
         <page name='169_MajorityElement'/>
         <page name='171_ExcelSheetColumnNumber'/>
         <page name='189_RotateArray'/>
+        <page name='198_HouseRobber'/>
         <page name='204_CountPrimes'/>
         <page name='206_ReverseLinkedList'/>
+        <page name='213_HouseRobber-II'/>
         <page name='217_ContainsDuplicate'/>
         <page name='219_ContainsDuplicate-II'/>
         <page name='229_MajorityElement-II'/>
@@ -69,6 +71,5 @@
         <page name='Factorial'/>
         <page name='PrimeNumbers'/>
         <page name='LengthOfLoopLinkedList'/>
-        <page name='198_HouseRobber'/>
     </pages>
 </playground>
