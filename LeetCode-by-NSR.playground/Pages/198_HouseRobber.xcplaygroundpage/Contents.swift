@@ -14,5 +14,5 @@ func rob(_ nums: [Int]) -> Int {
     return maxMoney.last!
 }
 
-//rob([1,2,3,1]) // 4
+rob([1,2,3,1]) // 4
 rob([2,7,9,3,1]) // 12
