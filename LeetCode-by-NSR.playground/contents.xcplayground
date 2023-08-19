@@ -69,5 +69,6 @@
         <page name='Factorial'/>
         <page name='PrimeNumbers'/>
         <page name='LengthOfLoopLinkedList'/>
+        <page name='198_HouseRobber'/>
     </pages>
 </playground>
